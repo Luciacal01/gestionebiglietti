@@ -1,3 +1,6 @@
+<!-- Bootstrap -->
+<link href="<%= request.getContextPath() %>/css/bootstrap.min.css" rel="stylesheet">
+
 <!-- Required meta tags -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
